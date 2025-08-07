@@ -1,2 +1,17 @@
 # Dynamical-Systems-Modeling
-Modeled Japan’s population using a 101 x 101 Leslie matrix; projected a 12% decline in working-age population over 10 years.  Conducted eigenvalues and steady-state analysis in MATLAB, revealing population aging trends peaking at age 81. Built Excel dashboards and policy suggestions to address labor shortages and fertility decline. 
+**Goal**: Forecast Japan's population dynamics and aging trend using linear algebra.
+
+## Tools & Technologies
+- MATLAB, Excel, Leslie Matrix modeling
+
+## Key Steps
+- Constructed 101x101 matrix based on age distribution and fertility data
+- Performed eigenvalue and steady-state analysis
+
+## Findings
+- Predicted 12% drop in working-age population over 10 years.
+- Aging trend peaks at age 81, suggesting demographic crisis.
+
+## Files (Check)
+- `matrix_model.m`: MATLAB code
+- `dashboard.xlsx`: charts and interactive visualization
